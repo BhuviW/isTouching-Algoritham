@@ -1,2 +1,2 @@
-# isTouching-Algoritham
-created function and can accept arguments and values
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
